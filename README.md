@@ -8,7 +8,7 @@ The API analyzes network flow features and classifies traffic as benign or malic
 ## Model Overview
 
 - **Dataset**: UNSW-NB15 (network intrusion dataset)
-- **Task**: Binary classification (benign vs attack)
+- **Task**: Classify traffic as benign or malicious
 - **Model**: Logistic Regression
 - **Pipeline**:
   - Categorical encoding
